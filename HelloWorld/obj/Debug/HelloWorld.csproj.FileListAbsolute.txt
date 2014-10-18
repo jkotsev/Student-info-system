@@ -1,0 +1,17 @@
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\julian\documents\visual studio 2012\Projects\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.pdb
+G:\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.exe.config
+G:\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.exe
+G:\PS_JulianKotsev\HelloWorld\bin\Debug\HelloWorld.pdb
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.Form1.resources
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.Properties.Resources.resources
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.csproj.GenerateResource.Cache
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.exe
+G:\PS_JulianKotsev\HelloWorld\obj\Debug\HelloWorld.pdb

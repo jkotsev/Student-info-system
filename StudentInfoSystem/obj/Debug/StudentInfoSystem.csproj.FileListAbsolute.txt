@@ -1,0 +1,41 @@
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+C:\Users\Julian\Documents\Visual Studio 2012\Projects\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox1.resources
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox1.resources
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe.config
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.exe
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csprojResolveAssemblyReference.cache
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.Properties.Resources.resources
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.AboutBox1.resources
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.LoginForm.resources
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.View.MainForm.resources
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.csproj.GenerateResource.Cache
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\EntityFramework.dll
+F:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\EntityFramework.xml
+F:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+G:\PS_JulianKotsev\StudentInfoSystem\obj\Debug\StudentInfoSystem.pdb
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoDatabase.mdf
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoDatabase_log.ldf
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.exe
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\StudentInfoSystem.pdb
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\EntityFramework.dll
+G:\PS_JulianKotsev\StudentInfoSystem\bin\Debug\EntityFramework.xml

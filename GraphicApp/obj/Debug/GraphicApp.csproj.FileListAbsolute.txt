@@ -1,0 +1,8 @@
+G:\PS_JulianKotsev\GraphicApp\bin\Debug\GraphicApp.exe.config
+G:\PS_JulianKotsev\GraphicApp\bin\Debug\GraphicApp.exe
+G:\PS_JulianKotsev\GraphicApp\bin\Debug\GraphicApp.pdb
+G:\PS_JulianKotsev\GraphicApp\obj\Debug\GraphicApp.csprojResolveAssemblyReference.cache
+G:\PS_JulianKotsev\GraphicApp\obj\Debug\GraphicApp.Properties.Resources.resources
+G:\PS_JulianKotsev\GraphicApp\obj\Debug\GraphicApp.csproj.GenerateResource.Cache
+G:\PS_JulianKotsev\GraphicApp\obj\Debug\GraphicApp.exe
+G:\PS_JulianKotsev\GraphicApp\obj\Debug\GraphicApp.pdb
